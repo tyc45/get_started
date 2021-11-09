@@ -6,3 +6,5 @@ def hello(
         return print("Hello Florian")
     else:
         return print("Je ne vous connais pas")
+
+hello()
